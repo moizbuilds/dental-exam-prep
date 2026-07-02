@@ -1,0 +1,5 @@
+pymupdf==1.24.10          # PDF text extraction (fitz)
+anthropic==0.40.0         # generation + blind verification
+supabase==2.31.0          # bulk inserts (>=2.15 supports sb_secret_/sb_publishable_ keys)
+python-dotenv==1.0.1      # load .env
+tenacity==9.0.0           # retry/backoff for API calls
